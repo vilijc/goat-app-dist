@@ -38,4 +38,4 @@ jobs:
           appId: ${{secrets.FIREBASE_APP_ID}}
           token: ${{secrets.FIREBASE_TOKEN}}
           groups: testers
-          file: /home/runner/work/${{ github.ref_name }}/${{ github.ref_name }}/build/app/outputs/flutter-apk/app-release.apk
+          file: /home/runner/work/goat-app-dist/goat-app-dist/build/app/outputs/flutter-apk/app-release.apk
