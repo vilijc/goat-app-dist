@@ -24,8 +24,8 @@ jobs:
       #     fileName: "app_keystore.jks"
       #     encodedString: ${{ secrets.KEYSTORE }}
 
-      # - name: Build
-      #   run: flutter build apk
+      - name: Build
+        run: flutter build apk
       #   env:
       #     ANDROID_KEYSTORE_PATH: ${{ steps.write_file.outputs.filePath }}
       #     ANDROID_KEYSTORE_ALIAS: ${{ secrets.ANDROID_KEYSTORE_ALIAS }}
