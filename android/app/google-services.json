@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "220052896475",
-    "project_id": "goat-app-dist-dd117",
-    "storage_bucket": "goat-app-dist-dd117.appspot.com"
+    "project_number": "868303837111",
+    "project_id": "goat-app-dist-e4667",
+    "storage_bucket": "goat-app-dist-e4667.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:220052896475:android:f3b12daa9ef352baf3eafe",
+        "mobilesdk_app_id": "1:868303837111:android:d8b7a01a2590bb61cd3a32",
         "android_client_info": {
           "package_name": "com.goat.app.dist"
         }
       },
       "oauth_client": [
         {
-          "client_id": "220052896475-1nujpvtqqefcsgbcj0un4tjufdqiffbf.apps.googleusercontent.com",
+          "client_id": "868303837111-m4v74u27f120aj5v7halo4c8siv2sns0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC-3V6DFXDcI21CaplvFgfm1AKokgffyMo"
+          "current_key": "AIzaSyBgeVgxyhXI0S5pxqOFHHy641G_HV5kX3E"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "220052896475-1nujpvtqqefcsgbcj0un4tjufdqiffbf.apps.googleusercontent.com",
+              "client_id": "868303837111-m4v74u27f120aj5v7halo4c8siv2sns0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
